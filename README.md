@@ -25,8 +25,7 @@ Signal is shifted 1 day before execution to avoid lookahead bias
 The strategy was backtested on AAPL from 2020-01-01 to 2023-01-01.
 Performance was visualized using cumulative returns. While the strategy did generate signals and avoid some drawdowns, it underperformed the buy-and-hold market approach during strong bull runs.
 <img width="556" height="437" alt="MarketOutperforms" src="https://github.com/user-attachments/assets/77eaf836-2525-4ed6-82b2-f6099f927518" />
--Orange: Market (Buy and Hold)
--Blue: Trading strategy (Crossover)
+
 
 ## Future Improvements
 -Add Sharpe Ratio, max drawdown
