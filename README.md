@@ -31,3 +31,4 @@ Performance was visualized using cumulative returns. While the strategy did gene
 -Add Sharpe Ratio, max drawdown
 -Export results to CSV directly
 -Add slippage and transaction costs into total returns
+-Add Volume indicator, a secondary confirmation indicator and an exit indicator for future strategy
